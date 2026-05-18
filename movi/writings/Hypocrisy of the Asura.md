@@ -1,4 +1,0 @@
-For millennia, the Asura creed did not possess the means to kill a god. So they made use of the powers they had to bind them to eternal life.
-It is known that gods exist, and moreover that they are sustained by the belief of their worshippers. But some time after the Age of Reason came to and end, gods that were fading from the collective consciousness were chained to their corporeal forms. In the face of eternal suffering, countless pantheons killed each other and themselves to escape the curse, while the lifespans of the Kyralian line, not truly gods, waned. 
-
-in a world increasingly overrun by god and demons, the asuras resolved to resist. To this end, they bided their time in hiding, awaiting a chance to prove that a god may be slain. The Kyralian crusade provided the chance, and the rest was history. From that point onwards, the Asura retreated completely from society, and dedicated their strength to exterminating whatever they perceived to be unnatural.

@@ -1,6 +1,0 @@
-## Origin
-Hailing from the Outer Rim planet of Eridia, Eridosapiens are an intelligent humanoid species characterized by their reddish-pink skin and pig-like faces. They are thought to have originated from a Gamorrean subspecies native to the planet, which interbred with biologically compatible Kyralians during the Age of Reason. Though their kind is respected in the southern Outer Rim, they are often ridiculed as "pigs" in the Presidency and Sith Worlds.
-***
-## History
-Eridia is notable for being one of the main supporters of Goddess Kyralia in her Ascension, and remained loyal vassals of the Empire in the centuries to come.
-The Eridian demigod Varazhor is notable for having served in the Nameless Crusade, conquering at the side of his Lord and eventually settling on Corellia with his people, choosing not to take part in the final push into the Inner Core. When the Asuras struck back, he was forced to retreat, leaving a considerable Eridosapien population on the planet. In later years, this community developed a reputation for being lethal bounty hunters and sellswords. 
