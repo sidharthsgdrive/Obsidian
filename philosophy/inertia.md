@@ -1,1 +1,0 @@
-The willingness to wake up from [[sleep_thoughts|sleep_thoughts]] is more dependent on inertia than on actual rest. This would explain why it's easier to get up from bed after waking up from an intense dream -- the brain thinks you're already in action and is wondering why you're suddenly in bed.

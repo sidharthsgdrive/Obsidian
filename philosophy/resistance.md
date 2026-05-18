@@ -1,3 +1,0 @@
-Resistance is what slows the mind from pursuing, continuing or repeating an activity. It is in my interest to maximize resistance for undesirable or degenerative activities, while minimizing resistance for desirable or productive ones.
-
-The human brain has a tendency to optimize for low-resistance activities. If it learns you can get away with minimum efforts, it is trained on that information and puts in minimum effort for subsequent attempts, often to your detriment. The example that comes to mind is when I'm locked in and get a lot of work done in a day, and then convince myself that I only need a day to cover that much amount of content in the future, even though that one day was probably a fluke or due to stress.
