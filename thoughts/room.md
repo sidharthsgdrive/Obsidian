@@ -1,1 +1,0 @@
-`8/11/25` Adjusted the tubelight to be symmetrical w.r.t the AC and the rest of the room.
