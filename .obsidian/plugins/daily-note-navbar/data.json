@@ -1,8 +1,0 @@
-{
-  "dateFormat": "ddd",
-  "tooltipDateFormat": "YYYY-MM-DD",
-  "dailyNoteDateFormat": "YYMMDD-ddd",
-  "firstDayOfWeek": "Monday",
-  "defaultOpenType": "Active",
-  "setActive": true
-}
