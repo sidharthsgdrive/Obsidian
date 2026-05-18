@@ -1,0 +1,5 @@
+
+> [!quote]  #quote 
+> "Every temptation is an opportunity to do good. On the path to spiritual maturity, even temptation becomes a stepping-stone rather than a stumbling block when you realize that it is just as much an occasion to do the right thing as it is to do the wrong thing. Temptation simply provides the choice. ~ The Purpose-Driven Life"
+
+[[Types of activities#^43e590|Degenerative recreation]]

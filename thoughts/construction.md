@@ -1,0 +1,3 @@
+`19/10/25` I got really fed up of the noise around 18:00, and came down to brainstorm solutions. I've decided that I'll move to the downstairs spare bedroom after Kavithamma comes and goes, since Deva won't be here regularly from now on. Additionally, I'll be studying in the Study, which Acche and Deva worked on cleaning today. 
+I've been writing the DSA record in the downstairs bedroom for the past hour or so, and I have to say the brick wall does a far better job of blocking out the higher frequencies of the construction noise than the window upstairs.
+***

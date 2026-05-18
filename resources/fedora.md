@@ -1,0 +1,34 @@
+- [Fedora Docs](https://docs.fedoraproject.org/)
+- [Fedora Magazine](https://fedoramagazine.org/)
+- Fedora Project
+	- [Get Fedora](https://getfedora.org/)
+	- More downloads
+		- [Fedora Spins (Desktop Environments)](https://spins.fedoraproject.org/)
+		- [Fedora Labs (Functional Bundles)](https://labs.fedoraproject.org/)
+		- [Fedora ARM (IoT and More!)](https://arm.fedoraproject.org/)
+		- [Fedora Alternative Downloads](https://alt.fedoraproject.org/)
+	- [About the Fedora Project](https://docs.fedoraproject.org/en-US/project/)
+	- [Ask Fedora (Community Support)](https://ask.fedoraproject.org/)
+	- [Fedora Discussion](https://discussion.fedoraproject.org/)
+	- [Planet Fedora](http://fedoraplanet.org/)
+	- [Fedora Community Blog](https://communityblog.fedoraproject.org/)
+	- [Get involved with the Fedora Project](https://whatcanidoforfedora.org/)
+- User Communities
+	- [Fedora Forum](https://forums.fedoraforum.org/)
+	- [r/Fedora on Reddit](https://www.reddit.com/r/Fedora/)
+	- [@fedora on Twitter](https://twitter.com/fedora)
+	- [Fedora on Discord Chat](https://discordapp.com/invite/fedora)
+- Red Hat
+	- [Red Hat](https://www.redhat.com/)
+	- [JBoss Developer Community](https://developer.jboss.org/welcome)
+	- [OpenShift Origin](https://www.openshift.org/)
+	- [OpenSource.com](https://opensource.com/)
+	- [The Open Source Way](https://www.theopensourceway.org/)
+- Free Content
+	- [Wikipedia](https://www.wikipedia.org/)
+	- [LibriVox](https://librivox.org/)
+	- [Open Clip Art](https://openclipart.org/)
+	- [Free Sound](https://www.freesound.org/)
+	- [Creative Commons](https://creativecommons.org/)
+	- [Pixabay](https://pixabay.com/)
+	- 

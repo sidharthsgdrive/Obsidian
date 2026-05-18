@@ -1,0 +1,1 @@
+`01/10/25` I have college exams the next two Mon-Wed's. This is concerning, as these are usually the days when I finish IIT work. So to deal with this, I will have to finish the work ahead of time in the Thur-Sun periods. 

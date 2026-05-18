@@ -1,0 +1,2 @@
+`15/08/25` To revert bootable USB drive back to Windows-supported format, when the file explorer's format option doesn't work -- https://forums.tomshardware.com/threads/trying-to-format-write-protected-usb-drive-which-has-2-disks.3491862/
+note: no need of the `active` command

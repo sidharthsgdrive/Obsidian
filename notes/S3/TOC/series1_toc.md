@@ -1,0 +1,27 @@
+Portions taken in class:
+- [ ] Foundations
+	- Terms (alphabet, strings, language, power)
+	- Language operations (union, intersection, complement, concatentation, power, \*)
+- [ ] DFAs
+	- Definition and basic concepts
+	- Transition table, state diagram
+	- Types of DFA problems:
+		- strings that does/doesn't start with *x*, end with *x*, contain substring *x*
+		- n^th^ symbol from left/right is/isn't *x*
+		- no. of *x*'s is divisible by y, binary no. given by string is divisible by y
+		- and/or combining DFAs
+	- Minimization
+		- shortcut method
+		- set construction method
+			- table filling algorithm
+- [ ] NFAs
+	- Finding set of reachable states for given input / extended transition function
+	- Designing NFAs
+	- Converting NFAs to DFAs (having ε, not having ε)
+- [ ] Regular Expressionsprod
+	- (recursive) definition
+	- order of precedence of regex operators
+	- Types of regex problems:
+		- Drawing NFA & DFA for a given regex
+		- Designing regular expressions (?)
+		- Converting DFA/NFA to regex (?)

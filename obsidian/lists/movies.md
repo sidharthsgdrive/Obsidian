@@ -1,0 +1,2 @@
+## The Shawshank Redemption
+I get the hype. It was a good movie, that kept me engaged the whole time. Wasn't able to unpack the deeper meaning and themes; I'll have to watch an analyis some time and give a full review.

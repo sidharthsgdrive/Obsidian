@@ -1,0 +1,12 @@
+~4:45 => Wake up
+5:00 - 6:20 => IITM work
+6:20 - 7:20 => Get newspaper, exercise, bath, Vishnu Sahasranamam
+9:00 - 4:00 => College
+4:20 - 4:50 => Bath + Dry
+4:50 - 5:40 => Eat + Chill
+5:40 - 6:00 => Rest eyes
+6:00 - 7:20 => College recap and work
+7:20 - 7:40 => Dinner
+7:40 - 8:20 => Scheduled entertainment  
+8:20 => Wind down, write diary 
+~9:15 => Go to sleep

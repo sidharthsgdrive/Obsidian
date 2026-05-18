@@ -1,0 +1,20 @@
+{
+  "accentColor": "#89acd7",
+  "enabledCssSnippets": [
+    "eisenhower",
+    "hiderightsidebar",
+    "cursor",
+    "alignimages",
+    "centertables",
+    "scrollbar"
+  ],
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Inter UI,Inter",
+  "textFontFamily": "Atkinson Hyperlegible,Inter",
+  "monospaceFontFamily": "Adwaita Mono",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false,
+  "showRibbon": false
+}

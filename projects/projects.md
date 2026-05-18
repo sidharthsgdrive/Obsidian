@@ -1,0 +1,36 @@
+%% Begin Waypoint %%
+- **css_snippets**
+	- [[alignimages]]
+	- [[ninjacursor]]
+	- [[scrollbar]]
+- [[dailynotefooter]]
+- [[file_renamer]]
+- [[filetree]]
+- **leetcode**
+	- [[2_add2numbers]]
+	- [[3]]
+- [[markdown_interpreter]]
+- [[mkcd_cdls]]
+- **[[neetcode]]**
+- **notcode**
+	- [[arch]]
+	- [[casaos]]
+	- [[fedora]]
+	- [[firefox]]
+	- [[leetcodecli]]
+	- [[linuxgaming]]
+	- [[minecraftserver]]
+	- [[monkeytype]]
+	- [[neovim]]
+	- [[shizuku]]
+	- [[stirlingpdf]]
+	- [[terohost]]
+	- [[vim_motions]]
+	- [[waydroid]]
+- **notmywork**
+	- [[autohotkey_rebinds]]
+	- [[keyd_rebinds]]
+- [[project_ideas]]
+- [[sleep_calculator]]
+
+%% End Waypoint %%

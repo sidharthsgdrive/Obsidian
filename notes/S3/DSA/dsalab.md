@@ -1,0 +1,51 @@
+- Rotated Arrays 
+	- [ ] 2. Counting rotations in array
+	- [ ] 3. Binary search in rotated sorted array
+- Binary Search
+	- [ ] 1. Recursive Binary Search
+	- [ ] 4. Finding first occurrence of number in arrray
+- Sorting Algorithms
+	- [ ] 5. Insertion Sort
+	- [ ] 6. Selection Sort
+	- [ ] 7. Merge Sort
+	- [ ] 8. Quick Sort
+- Stack
+	- [ ] 9. Basic Stack implementation
+	- [ ] 10. Two stacks in one array
+	- [ ] 11. Balanced Parantheses
+	- [ ] 12. Postfix evaluation
+	- [ ] 13. Sort stack using another stack
+	- [ ] 14. Stack with O(1) getMin()
+	- [ ] 15. Infix to Postfix conversion
+- Sparse Polynomials
+	- [ ] 16. Sum of two sparse polynomials
+	- [ ] 18. Fast Transpose
+- Counting Sort
+	- [ ] 17. Counting Sort
+	- [ ] 19. Radix Sort
+- Queue
+	- [ ] 20. Circular Queue using Array
+	- [ ] 21. Deque using Array
+	- [ ] 22. Queue using two stacks
+- Linked List
+	- [ ] 23. Stack using LL
+	- [ ] 24. Queue using LL
+	- [ ] 25. Middle element of LL
+	- [ ] 26. Reverse a LL
+	- [ ] 27. Rotate a LL
+	- [ ] 28. Detect loop in LL
+	- [ ] 29. Detect intersection in LL
+- Binary Tree
+	- [ ] 30. Traverse Binary Tree
+	- [ ] 31. BST operations
+	- [ ] 32. Dictionary using BST
+- Heap
+	- [ ] 33. Priority Queue
+	- [ ] 34. Merge K sorted lists
+	- [ ] 35. Maximum Activity Points
+- Graph
+	- [ ] 36. Graph Traversal
+	- [ ] 37. Water Pouring puzzle
+
+
+

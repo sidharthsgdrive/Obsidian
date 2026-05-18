@@ -1,0 +1,6 @@
+```
+niggaism
+	├ money
+	├ drugs
+	└ sex
+```

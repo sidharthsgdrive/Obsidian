@@ -1,0 +1,2 @@
+- [Building a Modern Dashboard with Python and Tkinter | Towards Data Science](https://share.google/0lK9ubBbkt13ZLaKG)
+- [Iconic -- smart icons plugin](https://www.reddit.com/r/ObsidianMD/comments/1i0wend/iconic_110_smart_icons_that_automate_themselves/)
